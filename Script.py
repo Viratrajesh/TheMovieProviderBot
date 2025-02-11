@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """Welcome {}, {}\n\nHI.\n\nᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Rajesh1817">ʜᴘ</a>"""
+    START_TXT = """Welcome {}, {}\n\nHI.\n\nRajesh ʙʏ : <a href="https://t.me/Rajesh1817">ʜᴘ</a>"""
 
     GSTART_TXT = """ʜᴇʏ {},\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.\n\nᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Rajesh1817">ʜᴘ</a>"""
     
