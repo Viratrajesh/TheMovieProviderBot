@@ -56,7 +56,10 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Sasukeuchiha')
 
 # Verify
 VERIFY = bool(environ.get('VERIFY', True)) # Verification On ( True ) / Off ( False )
-HOWTOVERIFY = environ.get('HOWTOVERIFY', url='https://t.me/askmovieslink1') # How to open tutorial link for verification
+import os  # Ensure you import os to use environ
+
+HOWTOVERIFY = os.environ.get('HOWTOVERIFY', 'https://t.me/askmovieslink1')
+ # How to open tutorial link for verification
 
 # Others
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'krownlinks.com')
